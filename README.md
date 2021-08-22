@@ -16,6 +16,14 @@
    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
    <img src="https://img.shields.io/badge/Bootstrap-7947C4?style=for-the-badge&logo=bootstrap&logoColor=white">
+- <h3>Workspace<h3>
+   <img src="https://img.shields.io/badge/PYCharm-F6E04B?style=for-the-badge&logo=pycharm&logoColor=000">
+   <img src="https://img.shields.io/badge/jupyter-fff?style=for-the-badge&textColor=green&logo=jupyter&logoColor=orange">
+   <img src="https://img.shields.io/badge/sublime-grey?style=for-the-badge&logo=sublimetext&logoColor=orange">
+   <img src="https://img.shields.io/badge/anaconda-000?style=for-the-badge&textColor=green&logo=anaconda&logoColor=green">
+   <img src="https://img.shields.io/badge/VSCode-fff?style=for-the-badge&logo=visualstudiocode&logoColor=227BBC">
+   <img src="https://img.shields.io/badge/Oracle_XE-fff?style=for-the-badge&logo=oracle&logoColor=red"> 
+   
 - <h3>Social<h3>
 
   <a href="https://www.linkedin.com/in/manibharathi-s-b58792137/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
