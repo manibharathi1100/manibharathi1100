@@ -4,9 +4,8 @@
 - 🌱 I’m currently learning ... Javascript, django
 - 👯 I’m looking to collaborate on ... Python Developer Team
 - 📫 How to reach me: ... manibharathi1100@gmail.com
--    +919791832634
-- 😄 Pronouns: ... Mani
-- ⚡ Fun fact: ...
+- 📞 +919791832634
+- ⚡ Fun fact: ...The First Computer Mouse was Made of Wood.
 - <h3>Languages Known<h3>
 
  
