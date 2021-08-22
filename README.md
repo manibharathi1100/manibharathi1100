@@ -20,5 +20,6 @@
    <img src="https://img.shields.io/badge/Bootstrap-7947C4?style=for-the-badge&logo=bootstrap&logoColor=white">
 - <h3>Social<h3>
 
-  <a href="www.linkedin.com/in/manibharathi-s-b58792137" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">   </a>  <a href="https://github.com/manibharathi1100" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="www.linkedin.com/in/manibharathi-s-b58792137"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/manibharathi1100" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 
