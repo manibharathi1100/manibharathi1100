@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m a Programmer Analyst | Exela Technolgies [OCT - Present]
+- 🔭 I’m a Programmer Analyst | Exela Technolgies [OCT_2021 - Present]
 - 🌱 I’m currently improving my skills in python.
 - 👯 I’m looking to collaborate on --> Python-Django Developer Team
 - 📫 How to reach me: manibharathi1100@gmail.com
