@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m a Programmer Analyst
-- 🌱 I’m currently working on --> Django Projects
+- 🌱 I’m currently improving my skills in python.
 - 👯 I’m looking to collaborate on --> Python-Django Developer Team
 - 📫 How to reach me: manibharathi1100@gmail.com
 - 📞 +919791832634
