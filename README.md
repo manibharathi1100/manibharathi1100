@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m a Programmer Analyst | Exela Technolgies [OCT_2021 - Present]
-- 🌱 Developing Python and shell scripts for automation.
-- 👯 I’m looking to collaborate on --> Python/Django Developer Team
+- 🔭 I’m a python automation developer | Lennox  [JAN_2023 - Present]
+- 🌱 Developing python framework for web automation.
+- 👯 I’m looking to collaborate on --> Python mobile automation testing team
 - 📫 How to reach me: manibharathi1100@gmail.com
 - 📞 +919791832634
 - 
